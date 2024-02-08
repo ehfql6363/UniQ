@@ -2,7 +2,11 @@
 간단한 설문 플랫폼
 
 ## Skill
-
+- Typescript
+- Java
+- Spring Boot
+- MySQL
+- MyBatis
 
 ## ERD
 ![ERD](image.png)
